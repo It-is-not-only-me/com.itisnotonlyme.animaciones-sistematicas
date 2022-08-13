@@ -1,2 +1,3 @@
-# Unity-Packages
-Este repositorio va a tener todos los packages que vaya creando para crear mis juegos
+# Animaciones sistematicas
+
+La intencion de esta herramienta es permitir crear animaciones con bastante libertad de expresion, con la menor cantidad de esfuerzo y reutilizables.

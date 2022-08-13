@@ -1,12 +1,14 @@
 {
-    "name": "com.itisnotonlyme.nombre",
+    "name": "com.itisnotonlyme.animaciones-sistematicas",
     "version": "1.0.0",
-    "displayName": "Nombre Lindo",
-    "description": "Descripcion linda",
+    "displayName": "Animaciones sistematicas",
+    "description": "Un sistema de crear animaciones reutilizables con el menor esfuerzo y gran expresion artistica",
     "unity": "2020.3",
     "keywords": [
-      "Key", 
-      "Words"
+      "Animation", 
+      "Procedural",
+      "Key frame",
+      "Authored"
     ],
     "author": {
       "name": "Juan Ignacio Biancuzzo",
