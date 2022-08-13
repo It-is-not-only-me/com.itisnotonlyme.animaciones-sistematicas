@@ -47,7 +47,11 @@ public class Personaje : MonoBehaviour, IIKRig
     {
         Gizmos.color = Color.white;
         foreach (NodoBehaviour nodo in _nodos)
-            Gizmos.DrawSphere(nodo.PosicionActual, 0.5f);
+        {
+            Vector3 posicion = nodo.PosicionActual, direccion = nodo.Direccion;
+            Gizmos.DrawSphere(posicion, 0.5f); 
+            Gizmos.DrawLine(posicion, posicion + direccion * 1.5f);
+        }
 
         Gizmos.color = Color.blue;
         foreach (Vinculo vinculo in _vinculos)
