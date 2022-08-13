@@ -1,0 +1,17 @@
+{
+    "name": "Demo-animaciones-sistematicas",
+    "rootNamespace": "",
+    "references": [
+        "GUID:62742021b2048ff4daaa02ea5c4d49d1",
+        "GUID:38617eecfc1f06546b332601c10a2c4f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
