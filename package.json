@@ -10,6 +10,9 @@
       "Key frame",
       "Authored"
     ],
+    "dependencies": {
+      "com.unity.animation.rigging": "1.1.1"
+    },
     "author": {
       "name": "Juan Ignacio Biancuzzo",
       "email": "jbiancuzzo@fi.uba.ar"
